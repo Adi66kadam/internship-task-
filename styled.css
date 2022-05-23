@@ -1,0 +1,40 @@
+.flowers {
+  display: flex;
+  margin-top: 100px;
+  height: 250px;
+  width: 250px;
+  margin-left: 180px;
+  margin-right: 180px;
+}
+.text p {
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: .1em;
+  margin-top: 40px;
+  font-style: italic;
+  color: black;
+}
+.heading {
+  background-color: palevioletred;
+  color: aqua;
+}
+.heading h1{
+  font-size: 75px;
+  text-align: center;
+} 
+.footer {
+  display: block;
+  align-content: right;
+  background-color: darkgrey;
+  
+}
+.footer p{
+  font-size: 30px;
+  font-weight: 200;
+  letter-spacing: .1em;
+  margin-top: 20px;
+  font-style:normal;
+  color: brown;
+
+
+}
